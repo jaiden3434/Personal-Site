@@ -1,0 +1,14 @@
+body {
+    background:	#282A36;
+    @font-face {  font-family: "jetbrainsmono_regular";  src: url("/resources/fonts/JetBrainsMono-Regular.ttf");}
+.jetbrainsmono_regular {  font-family: "jetbrainsmono_regular", sans-serif;}
+color: rgb(213, 212, 212);
+}
+
+footer {
+    text-align: center;
+    position: static;
+    padding-top: 90vh;
+    
+    
+}
